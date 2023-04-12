@@ -9,4 +9,4 @@ Bu proje, sadece HTML ve CSS kullanılarak oluşturulmuştur ve basit bir yapıy
 
 <h2>Ekran Goruntusu</h2>
 
-![](war.gif)
+![](war.gif)# war.proje
